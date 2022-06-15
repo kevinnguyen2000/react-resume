@@ -1,0 +1,10 @@
+.text-container p {
+    font-family: 'Inter', sans-serif;
+    color: #FFFF
+}
+
+.dark-mode {
+    background-color: #121212;
+    overflow: hidden;
+    height:100vh
+}
